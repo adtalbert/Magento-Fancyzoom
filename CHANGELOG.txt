@@ -1,0 +1,7 @@
+
+Appmerce FancyZoom for Magento Commerce, v1.7.0.2.1, 2012/09/23
+---------------------------------------------------------------
+ - Added base/default template and layout files to out-of-the-box readiness.
+ - Included Morningtime_FancyZoom.xml to disable conflicting module.
+ - Internal version reset to 0.1.0
+ - Initial Appmerce release after re-branding from Morningtime Extensions.
